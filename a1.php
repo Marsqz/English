@@ -39,9 +39,13 @@ out of 从...中
 If the individuals do not consume【out of】capital gains, 
 their gross savings are $10,000 and $10; 000 + 2% × $1; 000; 000 = $30; 000 respectively.
 
+As above 如上所述
+As above, households receive a constant labor income w. 
+
 In contrast to 与...不同的是
 【In contrast to】above, they can now buy and sell an asset kt at a price pt. 
 
 For concreteness 具体而言
 For concreteness we refer to the asset as “stocks.” 
+
 
