@@ -1,7 +1,8 @@
-attribute 属性
+attribute/property 属性
 In this example，we use only one feature or one【attribute】, namely the tumor size, in order to predict whether 
 the tumor is malignant or benign.
 在上例中，我们只便用了一个特征或属性，即肿瘤块大小，来预测肿瘤是恶性还是良性。
+We show below that manyother benchmark models inherit this【property】, at least approximately.
 
 To recap/To wrap up/Taken together 综上所述，...
 
