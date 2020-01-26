@@ -1,0 +1,45 @@
+attribute/property 属性
+In this example，we use only one feature or one【attribute】, namely the tumor size, in order to predict whether 
+the tumor is malignant or benign.
+在上例中，我们只便用了一个特征或属性，即肿瘤块大小，来预测肿瘤是恶性还是良性。
+We show below that manyother benchmark models inherit this【property】, at least approximately.
+
+To recap/To wrap up/Taken together 综上所述，...
+
+To this end 有鉴于此/为此/
+【To this end】, we consider a series of theoretical benchmark models and
+compare their predictions to our main empirical fndings in Figure 1.
+
+takeaway 主要观点
+Our main【takeaway】for theory then is that the joint pattern for net and gross saving rates in the data is inconsistent with 
+the benchmark models discussed thus far.
+
+thus far 目前为止
+Our main takeaway for theory then is that the joint pattern for net and gross saving rates in the data is inconsistent with 
+the benchmark models discussed【thus far】.
+
+subject to 使...遭受
+Second, housing is indivisible and【subject to】substantial adjustment costs.
+
+dimension 方面
+Housing diﬀers from fnancial assets such as stocks in two【dimensions】.
+
+to what extent 多大程度
+We use our model to examine【to what extent】these two features can help explain our empirical fndings, 
+in particular that households seem to hold on to their residences in the face of rising house prices.
+
+The prominence of housing in our data leads to another, related question:
+【to what extent】do the patterns in Figure 1 point to a housing-specifc story? 
+
+aspect 方面
+We show that, by itself, the consumption【aspect】of housing is not enough to rationalize our fndings and 
+that other【aspects】of housing, like transaction costs or sustained housing demand shifts must be part of the story.
+
+out of 从...中
+If the individuals do not consume【out of】capital gains, 
+their gross savings are $10,000 and $10; 000 + 2% × $1; 000; 000 = $30; 000 respectively.
+
+
+
+
+
