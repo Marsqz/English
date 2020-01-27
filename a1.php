@@ -45,7 +45,33 @@ As above, households receive a constant labor income w.
 In contrast to 与...不同的是
 【In contrast to】above, they can now buy and sell an asset kt at a price pt. 
 
+In contrast 反之
+【In contrast】, the net saving rate is independent of stock market performance and predicted to be decreasing with wealth.
+
 For concreteness 具体而言
 For concreteness we refer to the asset as “stocks.” 
 
+purged of 剔除
+Equivalently, recurrent saving is gross saving【purged of】transitory capital gains, that is ȧ-εa.
 
+follow from 遵循
+The “gross saving rate”【follows from】(5) and is the saving rate out of total income including capital gains ȧt/(w + r*a).
+The defnition of recurrent income【follows from】the requirement that consumption plus saving equals income.
+The logic【follows from】the permanent income hypothesis. 
+
+Intuitively 从直观上看
+【Intuitively】, since consumption in the two equations is the
+same, a diﬀerence in the saving defnition necessarily implies a diﬀerence in the income defnition. 
+
+feature 以...为特征；描述了...
+The simple benchmark【features】a household with homothetic utility that
+receives a constant stream of labor income and saves in an asset with an exogenously given price.
+We next extend the simple benchmark model to【feature】a stochastic asset price.
+When returns【feature】a stochastic component εt≠0 and labor income is positive w > 0,
+it is no longer possible to solve the consumption-saving problem analytically. 
+Formulation (7)【features】disposable income, whereas formulation (8)【features】
+“Haig-Simons” income which includes unrealized capital gains.
+
+In turn 反过来（作为“轮流、依次”的含义更常见）
+The rich save more than the poor, and the more they have, the more they’ll save. 
+Moneythat’s being saved isn’t being spent.【In turn】, that means less work for everybody and a lethargic economy.
