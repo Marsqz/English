@@ -4,7 +4,9 @@ the tumor is malignant or benign.
 在上例中，我们只便用了一个特征或属性，即肿瘤块大小，来预测肿瘤是恶性还是良性。
 We show below that manyother benchmark models inherit this【property】, at least approximately.
 
-To recap/To wrap up/Taken together 综上所述，...
+To recap/To wrap up/Taken together 综上所述/总之，...
+【Taken together】, these data contain detailed third-party-reported information on household-level wealth and income, covering
+the universe of Norwegians from the very bottom to the very top of the wealth distribution.
 
 To this end 有鉴于此/为此/
 【To this end】, we consider a series of theoretical benchmark models and
@@ -53,6 +55,8 @@ For concreteness we refer to the asset as “stocks.”
 
 purged of 剔除
 Equivalently, recurrent saving is gross saving【purged of】transitory capital gains, that is ȧ-εa.
+We have defned recurrent saving as the systematic component of gross saving or,
+【equivalently】, gross saving purged of transitory capital gains.
 
 follow from 遵循
 The “gross saving rate”【follows from】(5) and is the saving rate out of total income including capital gains ȧt/(w + r*a).
@@ -75,3 +79,47 @@ Formulation (7)【features】disposable income, whereas formulation (8)【featur
 In turn 反过来（作为“轮流、依次”的含义更常见）
 The rich save more than the poor, and the more they have, the more they’ll save. 
 Moneythat’s being saved isn’t being spent.【In turn】, that means less work for everybody and a lethargic economy.
+
+be gauged from 由...衡量
+As already mentioned, the defnition of “net” and “gross”
+saving can【be gauged from】the two budget constraints (4) and (5) respectively.
+
+via 通过
+This notion is defned【via】the budget constraint，
+where µ is a measure of the systematic, or persistent, component of capital gains.
+
+equivalently 同样地
+【Equivalently】, recurrent saving is gross saving purged of transitory capital gains, that is ȧ-εa.
+We have defned recurrent saving as the systematic component of gross saving or,
+【equivalently】, gross saving purged of transitory capital gains.
+
+themselves 本身
+And because house prices are【themselves】a major component of the cost of living, 
+one cannot think of changes in housing costs in the same way as changes in the value of a stock market portfolio.
+
+On the one hand,...On the other hand,... 一方面，...另一方面，...
+On the one hand, conditional on income, saving rates are decreasing with
+wealth. On the other hand, saving rates increase with labor income (see panel (a)), and labor
+income and wealth are positively correlated in the stationary distribution. 
+
+“县官行令杀国材”：定语顺序口诀（大小→长短→形状→年龄→新旧→颜色→国籍→出处→材料→用途→类别）
+
+note 指出；注意
+Conditional on age and income, saving rates are slightly decreasing with wealth, as【noted】by De Nardi and Fella (2017).
+We also【note】that the least wealthy households
+hold a high ratio of housing wealth relative to total assets.
+
+hence 因此
+Hence, we will conduct empirical exercises in which we condition on age and labor income.
+
+thereafter 此后
+【Thereafter】, from the 15th to approximately the 25th wealth percentile, the
+housing portfolio share grows rapidly. 
+
+coin 定义
+To simplify exposition, we【coin】this distinct pattern a “swoosh” (in analogy with
+the logo of a well-known footwear brand).
+
+nevertheless 然而（转折）
+That is, even though the net saving rate is ﬂat, wealthier households do【nevertheless】accumulate more wealth through capital gains.
+
