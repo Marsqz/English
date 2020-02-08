@@ -3,6 +3,7 @@ In this example，we use only one feature or one【attribute】, namely the tumo
 the tumor is malignant or benign.
 在上例中，我们只便用了一个特征或属性，即肿瘤块大小，来预测肿瘤是恶性还是良性。
 We show below that manyother benchmark models inherit this【property】, at least approximately.
+Relative imports use a module's __name__【attribute】to determine that module's position in the package hierarchy.
 
 To recap/To wrap up/Taken together 综上所述/总之，...
 【Taken together】, these data contain detailed third-party-reported information on household-level wealth and income, covering
@@ -49,6 +50,10 @@ In contrast to 与...不同的是
 
 In contrast 反之
 【In contrast】, the net saving rate is independent of stock market performance and predicted to be decreasing with wealth.
+
+relative to 相比于
+【Relative】to traditional empirical methods in asset pricing, machine learning accommodates a far
+more expansive list of potential predictor variables and richer specifications of functional form. 
 
 For concreteness 具体而言
 For concreteness we refer to the asset as “stocks.” 
@@ -123,3 +128,12 @@ the logo of a well-known footwear brand).
 nevertheless 然而（转折）
 That is, even though the net saving rate is ﬂat, wealthier households do【nevertheless】accumulate more wealth through capital gains.
 
+two-fold 两重的、两倍的、双面的
+Our primary contributions are two-fold.
+
+notoriously 众所周知地
+But risk premia are【notoriously】difficult to measure —— market efficiency forces return variation to be dominated by
+unforecastable news that obscures risk premia.
+
+academia and industry 学界和业界
+Interest in machine learning methods for finance has grown tremendously in both【academia and industry】. 
